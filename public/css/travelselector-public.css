@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.mainclass{
+	position:absolute;
+	float:none;
+	display:block;
+	width:100%;
+	height:auto;
+}
